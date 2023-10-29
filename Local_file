@@ -1,2 +1,6 @@
 This is new Local file.
+<<<<<<< HEAD
 Doing changes in Feature(main)
+=======
+Doing changes in Feature(Feature)
+>>>>>>> Feature2
